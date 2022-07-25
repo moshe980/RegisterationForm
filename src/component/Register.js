@@ -73,7 +73,6 @@ const Register = () => {
             setErrMsg(error)
             errRef.current.focus()
         }
-
     }
 
     return (
